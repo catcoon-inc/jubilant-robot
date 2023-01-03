@@ -1,4 +1,4 @@
-﻿namespace AspnetTemplate.Core.Models;
+﻿namespace JubilantRobot.Core.Models;
 
 public class Sample : Entity
 {

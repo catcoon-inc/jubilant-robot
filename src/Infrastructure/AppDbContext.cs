@@ -1,7 +1,7 @@
-﻿using AspnetTemplate.Core.Models;
+﻿using JubilantRobot.Core.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace AspnetTemplate.Infrastructure;
+namespace JubilantRobot.Infrastructure;
 
 public class AppDbContext : DbContext
 {

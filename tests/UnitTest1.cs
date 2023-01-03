@@ -1,6 +1,6 @@
 using Xunit;
 
-namespace AspnetTemplate.Tests;
+namespace JubilantRobot.Tests;
 
 public class UnitTest1
 {
