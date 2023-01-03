@@ -5,6 +5,7 @@ metadata:
   annotations:
     dev.azure.com/project: POCs
     dev.azure.com/build-definition: catcoon-inc.jubilant-robot
+    sonarqube.org/project-key: catcoon-inc_jubilant-robot
 spec:
   type: service
   owner: user:rafaelpmiranda001
