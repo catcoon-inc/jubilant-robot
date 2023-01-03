@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "jubilant-robot"
   annotations:
-    dev.azure.com/project: rafaelpmiranda0166
+    dev.azure.com/project: POCs
     dev.azure.com/build-definition: catcoon-inc.jubilant-robot
 spec:
   type: service
