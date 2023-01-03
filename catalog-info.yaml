@@ -8,5 +8,5 @@ metadata:
     sonarqube.org/project-key: catcoon-inc_jubilant-robot
 spec:
   type: service
-  owner: user:rafaelpmiranda001
+  owner: team-a
   lifecycle: production
