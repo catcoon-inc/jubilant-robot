@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "jubilant-robot"
+  annotations:
+    dev.azure.com/project: rafaelpmiranda0166
+    dev.azure.com/build-definition: catcoon-inc.jubilant-robot
+spec:
+  type: service
+  owner: user:rafaelpmiranda001
+  lifecycle: production
